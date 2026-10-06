@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+*.pfx
+*.p12
+*.keystore
+ippower9258.settings.json
