@@ -1,4 +1,6 @@
 # ASCOM Alpaca IP Power 9258 — v0.14
+<img width="1324" height="517" alt="NINA_EQUIPEMENT_SWITCH_IPPOWER9258" src="https://github.com/user-attachments/assets/0562c7e4-435e-4db4-acc1-78f531806008" />
+
 
 Pilote Windows ASCOM Alpaca Switch pour les prises réseau Aviosys IP Power
 9258/9258xx. Il permet de commander les quatre sorties depuis N.I.N.A.
