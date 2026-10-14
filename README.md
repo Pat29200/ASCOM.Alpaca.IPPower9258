@@ -38,6 +38,8 @@ Ouvrir <http://127.0.0.1:5000/setup>, renseigner l'adresse de la prise et ses
 identifiants, tester la connexion puis enregistrer. Si le port Alpaca est
 modifié, redémarrer le serveur et utiliser ce nouveau port dans l'URL ; les
 raccourcis de l'installateur restent configurés sur 5000.
+<img width="938" height="907" alt="Panneau_de_configuration_NINA_EQUIPEMENT_SWITCH_IPPOWER9258" src="https://github.com/user-attachments/assets/d46a5adf-dd9f-433c-8415-cfa42319a42c" />
+
 
 La configuration est stockée sous `%ProgramData%\ASCOM-IPPower9258`.
 Le mot de passe est protégé par DPAPI pour cette machine. Le compte NINA reçoit
