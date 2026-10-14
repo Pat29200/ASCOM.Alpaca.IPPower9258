@@ -122,4 +122,4 @@ connexion du pilote et démarrage du serveur après remise sous tension ont
 Le démarrage automatique de NINA relève d'une tâche Windows distincte, à
 configurer séparément ; cet installateur ne crée ni ne modifie cette tâche.
 
-L'application Android est un projet séparé et n'est pas incluse ici.
+L'application Android est un projet séparé disponible ici : https://github.com/Pat29200/IPPower9258.Remote.
